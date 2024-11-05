@@ -1,5 +1,5 @@
 - Hi, my name is Davi Fontenele
-- Electrical engineering student at the federal university of maranhão, Brazil
+- Electrical engineering student at the federal university of Maranhão, Brazil
 - Posting some college projects to add to my resume, as I want to specialize in industrial automation.
 
 
